@@ -49,7 +49,7 @@ namespace SimpleWebBrowser
 
         private void button8_Click(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("https://www.google.com");
+            webBrowser1.Navigate("https://www.yahoo.com");
         }
     }
 }
